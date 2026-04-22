@@ -1,0 +1,36 @@
+.employee-table {
+  width: 100%;
+  border-collapse: collapse;
+  overflow: hidden;
+  border-radius: 12px;
+}
+
+.employee-table thead {
+  background: rgba(255, 255, 255, 0.06);
+}
+
+.employee-table th {
+  text-align: left;
+  padding: 14px;
+  font-weight: 600;
+  font-size: 14px;
+  color: var(--text);
+}
+
+.employee-table td {
+  padding: 14px;
+  border-top: 1px solid var(--border);
+  font-size: 14px;
+}
+
+.employee-table tbody tr {
+  transition: 0.2s;
+}
+
+.employee-table tbody tr:hover {
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.employee-table tbody tr:nth-child(even) {
+  background: rgba(255, 255, 255, 0.02);
+}
