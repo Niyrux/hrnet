@@ -3,6 +3,15 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "description": "Application RH HRnet développée avec React permettant la gestion des employés et l'optimisation des performances.",
+  "author": "Samuel (Niirux)",
+   "keywords": [
+    "react",
+    "hrnet",
+    "frontend",
+    "vite",
+    "redux"
+  ],
   "scripts": {
     "dev": "vite",
     "build": "vite build",
