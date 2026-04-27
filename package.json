@@ -19,7 +19,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@niirux/hrnet-modal": "^1.0.4",
+    "@niirux/hrnet-modal": "^1.0.6",
     "@reduxjs/toolkit": "^2.11.2",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
